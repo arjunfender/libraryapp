@@ -1,0 +1,17 @@
+{
+  "name": "libraryapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arjun",
+  "license": "ISC",
+  "dependencies": {
+    "calk": "0.0.1-security",
+    "chalk": "^3.0.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
